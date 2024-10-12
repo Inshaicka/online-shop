@@ -1,0 +1,18 @@
+footer {
+    padding: 40px 20px;
+    text-align: center;
+    height: 80px;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+footer a {
+    color: #1A73E8;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ff6f00;
+}
